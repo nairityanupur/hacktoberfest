@@ -14,7 +14,7 @@ int main(){
 		bool f=true;
 		
 		int a[n];
-		for(int i=0; i<n; i++) cin>>a[i];
+		for(int i=0; i<n; i++) cin>>a[i]; //this is this ashish why you send me this code
 		
 		
 			for(int j=1; j<n; j++){
